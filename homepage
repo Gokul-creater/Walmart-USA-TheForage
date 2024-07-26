@@ -1,0 +1,28 @@
+
+<html>
+<head>
+    <title>Home Page</title>
+</head>
+<frameset cols="25% ,75%">
+<frame src="Mainpage.html">
+<frame src="Defaultpage.html" name="display">
+</frameset>
+<noframes></noframes>
+</html>
+
+<html>
+<head>
+    <title>Page</title>
+</head>
+<body>
+
+<a href= "Area 1.html" target="display">
+<h1>Area 1</h1>
+</a> <br>
+<a href= "Area 2.html" target="display">
+<h1>Area 2</h1>
+</a> <br>
+<a href= "Area 3.html" target="display">
+<h1>Area 3</h1>
+</a>
+</body>
